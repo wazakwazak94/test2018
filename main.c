@@ -21,5 +21,7 @@ int main (void)
     turbo_on();
     turbo_off();
 
+    printf("hello");
+
     return 0;
 }
